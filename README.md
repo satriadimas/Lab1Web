@@ -12,3 +12,9 @@ ini untuk css nya, untuk lengkap nya bisa clone dari repo sini aja
 ![image](https://user-images.githubusercontent.com/20396585/157829761-e682fb17-2f90-4f08-96e1-c7ea722f215e.png)
 ![image](https://user-images.githubusercontent.com/20396585/157829794-4f9b67b6-3f3e-4b98-9227-6b8df31b71ec.png)
 
+Tampilan Halaman 1
+![image](https://user-images.githubusercontent.com/20396585/157830031-34d322bf-ac4a-4c53-bc25-cb250b6ac2d7.png)
+
+
+Tampilan halaman 2
+![image](https://user-images.githubusercontent.com/20396585/157829988-01a71efb-b79d-421c-a6f3-b7dfc3b01288.png)
