@@ -1,7 +1,7 @@
 ﻿# Praktikum-1
 
 untuk halaman pertama saya mengikuti kurikulum menggunakan html dasar
-![image](https://user-images.githubusercontent.com/20396585/157829497-c626b346-196c-400b-bc74-b5f2e6882f68.png)
+![image](https://user-images.githubusercontent.com/20396585/158055196-5625aacf-5b55-4aac-b4d7-41fe5b649f23.png)
 
 untuk halaman kedua saya membuat resume menggunakan html dasar dan css
 ![image](https://user-images.githubusercontent.com/20396585/157829673-a4680fe6-6de0-4ee6-bb68-9024643b37d3.png)
